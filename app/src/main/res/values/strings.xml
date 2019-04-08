@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Voice Calendar</string>
+    <string name="buttonEvents">Upcoming Events</string>
+    <string name="buttonHelp">Help</string>
+    <string name="buttonExit">Exit</string>
+    <string name="textViewEvent">Event</string>
+    <string name="textViewDate">Date</string>
+    <string name="textViewTime">Time</string>
+    <string name="buttonDone">\u2714 Done</string>
+    <string name="buttonCancel">\u274c Cancel</string>
+    <string name="textViewEvents">Upcoming Events</string>
+    <string name="title_activity_add_event">AddEventActivity</string>
+</resources>
